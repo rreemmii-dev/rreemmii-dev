@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="aTlt4jyyWK7zM2H82mxtJxzPEn1BZnGiSZu3RKOYnr8" />
+
 ### Hi there 👋
 
 I'm Rémi, a French student currently studying at Télécom Paris.
